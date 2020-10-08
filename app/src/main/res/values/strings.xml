@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">InfoGanaderia</string>
+
+    <string name="btn_iniciar_sesion_pantalla">Iniciar Sesión</string>
+    <string name="btn_registro_pantalla">Registrase</string>
+
+    <string name="btn_iniciar_sesion">Iniciar</string>
+
+    <string name="btn_registro">Registrarse</string>
+</resources>
