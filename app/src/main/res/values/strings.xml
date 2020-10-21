@@ -4,7 +4,19 @@
     <string name="btn_iniciar_sesion_pantalla">Iniciar Sesión</string>
     <string name="btn_registro_pantalla">Registrase</string>
 
-    <string name="btn_iniciar_sesion">Iniciar</string>
+    <string name="btn_iniciar_sesion">Iniciar Sesión</string>
 
     <string name="btn_registro">Registrarse</string>
+
+    <string name="noticias_btn">Noticias</string>
+    <string name="tipos_btn">Ganadería</string>
+    <string name="razas_btn">Razas</string>
+    <string name="consejos_btn">Consejos</string>
+    <string name="libros_btn">Libros Gratis</string>
+
+    <string name="descripcion_noticias">Noticias del Mundo Rural</string>
+    <string name="descripcion_tipos">Tipos de Ganadería</string>
+    <string name="descripcion_razas">Razas de Ganado</string>
+    <string name="descripcion_consejos">Consejos para Productores</string>
+    <string name="descripcion_libros">Libros y Guías en PDF</string>
 </resources>

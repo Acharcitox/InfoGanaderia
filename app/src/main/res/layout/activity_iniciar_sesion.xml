@@ -38,6 +38,7 @@
             android:id="@+id/iniciarSesionBtn"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:onClick="iniciarSesion"
             android:text="@string/btn_iniciar_sesion" />
     </LinearLayout>
 </androidx.constraintlayout.widget.ConstraintLayout>
